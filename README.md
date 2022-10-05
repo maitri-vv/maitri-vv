@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maitri Vaghasiya</h1>
 <h3 align="center">An inspiring Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whythosanskar&label=Profile%20views&color=0e75b6&style=flat" alt="maitri-vv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maitri-vv&label=Profile%20views&color=0e75b6&style=flat" alt="maitri-vv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/reyhnaah" target="blank"><img src="https://img.shields.io/twitter/follow/reyhnaah?logo=twitter&style=for-the-badge" alt="maitri-vv" /></a> </p>
 
