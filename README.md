@@ -34,7 +34,7 @@
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Wordpress" width="40" height="40"/> </a>
 <a href="https://www.wix.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github" width="40" height="40"/> </a>
-<a href="https://careers.google.com/students/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" width="40" height="40"/> </a> https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg
+<a href="https://careers.google.com/students/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" width="40" height="40"/> </a>
 <a href="https://www.cloudskillsboost.google/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCloud" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a> 
 
