@@ -53,6 +53,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitri-vv&" alt="maitri-vv" /></p>
 
+[![maitri's GitHub | Stats](https://stats.quine.sh/maitri/github?theme=light)](https://quine.sh)[![maitri's GitHub | Topics Over Time](https://stats.quine.sh/maitri/topics-over-time?theme=dark)](https://quine.sh)
 <!---
 maitri-vv/maitri-vv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
