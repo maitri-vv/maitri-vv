@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @maitri-vv
 <h1 align="center">Hi 👋, I'm Maitri Vaghasiya</h1>
-<h3 align="center">Web Enthusiast || UI/UX || Android</h3>
+<h3 align="center">Web Enthusiast || Open-source || Android</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitriv&label=Profileviews&color=0e75b6&style=flat" alt="maitri-vv" /> </p>
 
-<p align="left"> <a href="https://twitter.com/reyhnaah" target="blank"><img src="https://img.shields.io/twitter/follow/reyhnaah?logo=twitter&style=for-the-badge" alt="maitri-vv" /></a> </p>
+<p align="left"> <a href="https://twitter.com/maitrivv" target="blank"><img src="https://img.shields.io/twitter/follow/maitrivv?logo=twitter&style=for-the-badge" alt="maitri-vv" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
