@@ -1,17 +1,34 @@
 - 👋 Hi, I’m @maitri-vv
 <h1 align="center">Hi 👋, I'm Maitri Vaghasiya</h1>
-<h3 align="center">Web Enthusiast || Open-source || Android</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maitriv&label=Profileviews&color=0e75b6&style=flat" alt="maitri-vv" /> </p>
+
+                                                          M A I T R I - V ✨
+                                       Web Enthusiast | Open Source ❤️ | Android | Researcher
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maitri-vv&label=Profileviews&color=0e75b6&style=flat" alt="maitri-vv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maitrivv" target="blank"><img src="https://img.shields.io/twitter/follow/maitrivv?logo=twitter&style=for-the-badge" alt="maitri-vv" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/reyhnaah" target="blank"><img align="center" src="https://raw.githubusercontent.com/maitri-vv/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maitri-vv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maitrivaghasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitrivaghasiya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/maitri_vv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maitri_vv" height="30" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/maitrivaghasiya/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/maitri-vv">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+ 
+  <a href="https://www.instagram.com/maitri.vv">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://twitter.com/maitrivv">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
+<p/>
+<br/>
+<h1> HACKTOBERFEST 2022 </h1>
 
 [![@maitrivaghasiya's Holopin board](https://holopin.io/api/user/board?user=maitrivaghasiya)](https://holopin.io/@maitrivaghasiya)
 
@@ -43,8 +60,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maitri-vv&show_icons=true&locale=en" alt="maitri-vv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitri-vv&" alt="maitri-vv" /></p>
+<h1> GSSoC'23 & SSoC'2.0 </h1>
 
-[![maitri's GitHub | Stats](https://stats.quine.sh/maitri/github?theme=light)](https://quine.sh)[![maitri's GitHub | Topics Over Time](https://stats.quine.sh/maitri/topics-over-time?theme=dark)](https://quine.sh)
+[![maitri's GitHub | Languages Over Time](https://stats.quine.sh/maitri/languages-over-time?theme=light)](https://quine.sh)
+
+[![maitri's GitHub | Topics Over Time](https://stats.quine.sh/maitri/topics-over-time?theme=light)](https://quine.sh)
+
+<h2 align="center"> Thanks :) ❤️ </h2>
 <!---
 maitri-vv/maitri-vv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
