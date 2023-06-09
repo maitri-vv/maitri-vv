@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Maitri Vaghasiya</h1>
 
 
-                                                               M A I T R I - V ✨
-                                             Web Enthusiast | Open Source ❤️ | Android | Researcher
+                                                             M A I T R I - V ✨
+                                          Web Enthusiast | Open Source ❤️ | Android | Researcher
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitri-vv&label=Profileviews&color=0e75b6&style=flat" alt="maitri-vv" /> </p>
 
