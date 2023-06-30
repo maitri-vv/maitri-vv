@@ -48,23 +48,49 @@
 <a href="https://www.cloudskillsboost.google/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCloud" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a> 
 
-
-
-
+<h2> My GitHub Stats</h2>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maitri-vv&show_icons=true&locale=en&layout=compact" alt="maitri-vv"   />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=maitri-vv&show_icons=true&locale=en" alt="maitri-vv" />
+    </td>                           
+  </tr>
+</table>
+<center>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitri-vv&" alt="maitri-vv"/>
+    </td>
+  </tr>
+</table>
+</center>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitri-vv&theme=react-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+<h1> GSSoC'23 & SSoC'2.0 </h1>
+<table>
+  <tr>
+    <td>
+      <img src="https://stats.quine.sh/maitri/github?theme=light">
+    </td>
+    <td>
+      <img src="https://stats.quine.sh/maitri/languages-over-time?theme=light">
+    </td>
+  </tr>
+</table>
 
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maitri-vv&show_icons=true&locale=en&layout=compact" alt="maitri-vv" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maitri-vv&show_icons=true&locale=en" alt="maitri-vv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitri-vv&" alt="maitri-vv" /></p>
-<h1> GSSoC'23 & SSoC'2.0 </h1>
-
-[![maitri's GitHub | Languages Over Time](https://stats.quine.sh/maitri/languages-over-time?theme=light)](https://quine.sh)
-
-[![maitri's GitHub | Topics Over Time](https://stats.quine.sh/maitri/topics-over-time?theme=light)](https://quine.sh)
 
 <h2 align="center"> Thanks :) ❤️ </h2>
 <!---
