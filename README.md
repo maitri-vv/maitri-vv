@@ -87,9 +87,7 @@
   </tr>
 </table>
 
-
 </p>
-
 
 
 <h2 align="center"> Thanks :) ❤️ </h2>
