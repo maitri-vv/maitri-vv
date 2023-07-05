@@ -79,6 +79,8 @@
 <a href = "https://gssoc.girlscript.tech/"><img src = "https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" height = "60 px"></a>
 <a href ="https://hack2skill.com/hack/ssoc"><img src= "https://s3-h2s-v2.s3.ap-south-1.amazonaws.com/2023-02-27T07%3A36%3A16.009Z-8642B6AB-3088-4744-99A3-E2B6A19BC406.png" height ="60 px"></a>
 <a href = "https://hacktoberfest.com/"><img src= "https://hacktoberfestswaglist.com/img/Hfest-Badge-2-Color-Manga.svg" height = "60 px"></a>
+<a href ="https://gdsc.community.dev/thakur-college-of-engineering-and-technology-mumbai/"><img src ="https://www.dsctcet.tech/static/media/DSC%20Logo%20transperant.fcb7b59950456c6c903d.png" height = "60 px"></a>
+<a href ="https://g.dev/maitrivaghasiya"><img src ="https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg" height = "60 px"></a>
 
 <h1> GSSoC'23 & SSoC'2.0 </h1>
 <table>
