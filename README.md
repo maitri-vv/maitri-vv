@@ -83,6 +83,7 @@
 <a href ="https://g.dev/maitrivaghasiya"><img src ="https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg" height = "60 px"></a>
 <a href ="https://g.dev/maitrivaghasiya"><img src ="https://developers.google.com/static/profile/badges/community/wtm/member/badge.svg" height ="60 px"></a>
 <a href ="https://g.dev/maitrivaghasiya"><img src ="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" height =" 60 px"></a>
+<a href ="https://www.cloudskillsboost.google/public_profiles/3aa27fa2-d917-4db5-8ba8-82738a2533f1"><img src="https://cdn.qwiklabs.com/0bSya3%2F5VLUuF1UhSN5g8ARZbhzm24GCBuxZ%2FNeuSzw%3D" height = "60 px"></a>
 
 <h1> GSSoC'23 & SSoC'2.0 </h1>
 <table>
