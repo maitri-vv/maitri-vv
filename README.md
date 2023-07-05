@@ -75,6 +75,7 @@
     </td>
   </tr>
 </table>
+<a href = "https://gssoc.girlscript.tech/"><img src = "https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" height = "60 px"></a>
 <h1> GSSoC'23 & SSoC'2.0 </h1>
 <table>
   <tr>
