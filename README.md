@@ -81,6 +81,8 @@
 <a href = "https://hacktoberfest.com/"><img src= "https://hacktoberfestswaglist.com/img/Hfest-Badge-2-Color-Manga.svg" height = "60 px"></a>
 <a href ="https://gdsc.community.dev/thakur-college-of-engineering-and-technology-mumbai/"><img src ="https://www.dsctcet.tech/static/media/DSC%20Logo%20transperant.fcb7b59950456c6c903d.png" height = "60 px"></a>
 <a href ="https://g.dev/maitrivaghasiya"><img src ="https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg" height = "60 px"></a>
+<a href ="https://g.dev/maitrivaghasiya"><img src ="https://developers.google.com/static/profile/badges/community/wtm/member/badge.svg" height ="60 px"></a>
+<a href
 
 <h1> GSSoC'23 & SSoC'2.0 </h1>
 <table>
