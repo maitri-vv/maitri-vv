@@ -95,6 +95,14 @@
     <td>
       <img src="https://stats.quine.sh/maitri/languages-over-time?theme=light">
     </td>
+    <tr>
+      <td>
+      <img src="https://stats.quine.sh/maitri/topics-over-time?theme=light">
+      </td>
+      <td>
+        <img src="https://stats.quine.sh/maitri/dependencies?theme=light">
+      </td>
+    </tr>
   </tr>
 </table>
 
