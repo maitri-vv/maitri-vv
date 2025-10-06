@@ -30,7 +30,7 @@
 <br/>
 <h1> HACKTOBERFEST 2022 & 2023 </h1>
 
-[![@maitrivaghasiya's Holopin board](https://holopin.io/api/user/board?user=maitrivaghasiya)](https://holopin.io/@maitrivaghasiya)
+[![An image of @maitrivaghasiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maitrivaghasiya)](https://holopin.io/@maitrivaghasiya)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="60" height="40"/> </a>
