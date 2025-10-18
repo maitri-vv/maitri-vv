@@ -28,7 +28,7 @@
   </a>
 <p/>
 <br/>
-<h1> HACKTOBERFEST 2022 & 2023 </h1>
+<h1> HACKTOBERFEST 2022 + 2023 + 2024 + 2025 </h1>
 
 [![An image of @maitrivaghasiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maitrivaghasiya)](https://holopin.io/@maitrivaghasiya)
 
